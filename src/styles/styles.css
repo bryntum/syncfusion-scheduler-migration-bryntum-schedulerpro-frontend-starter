@@ -1,0 +1,7 @@
+@import '../../node_modules/@syncfusion/ej2/material.css';
+
+body {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
