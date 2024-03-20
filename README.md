@@ -1,8 +1,8 @@
-# Migrate from Syncfusion Scheduler to Bryntum Scheduler Pro - front end starter repository
+# Migrate from Syncfusion Scheduler to Bryntum Scheduler Pro - frontend starter repository
 
-This starter Syncfusion Scheduler application is a modified version of this Syncfusion Scheduler starter: [Essential JS 2 QuickStart](https://github.com/SyncfusionExamples/ej2-quickstart-webpack). The code for a Syncfusion Scheduler has been added to the `src/app.ts` file.
+This starter Syncfusion Scheduler application is a modified version of the following Syncfusion Scheduler starter: [Essential JS 2 QuickStart](https://github.com/SyncfusionExamples/ej2-quickstart-webpack). The code for a Syncfusion Scheduler has been added to the `src/app.ts` file.
 
-## Set up the front end
+## Set up the frontend
 
 Install the dependencies by running the following command:
 
